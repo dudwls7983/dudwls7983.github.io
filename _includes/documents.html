@@ -4,11 +4,11 @@
 
   <h2 class="section-title"><i class="fa fa-user"></i>Documents</h2>
 
-  {% for documents in site.data.data.documents %}
+  {% for document in documents %}
     <div class="item">
-      <div class="publication-title">{{ documents.title }}</div>
-      <div class="publication-authors">{{ documents.authors }}</div><br>
-      <div class="publication-conference">{{ documents.conference }}</div>
+      <div class="publication-title">{{ document.title }}</div>
+      <div class="publication-authors">{{ document.authors }}</div><br>
+      <div class="publication-conference">{{ document.conference }}</div>
     </div><!--//item-->
   {% endfor %}
 
