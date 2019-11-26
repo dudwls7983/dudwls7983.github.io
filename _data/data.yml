@@ -66,21 +66,21 @@ projects:
         link: "https://github.com/dudwls7983/Fortress2"
         tagline: "Project in my second semester of sophomore. 2018.11 ~ 2018.12"
 
-      - title: DevStudio
+      - title: -
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "-"
 
-      - title: Tempo
+      - title: -
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "-"
 
-      - title: Atom
+      - title: -
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "-"
 
-      - title: Delta
+      - title: -
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "-"
 
 publications:
     title: Publications
