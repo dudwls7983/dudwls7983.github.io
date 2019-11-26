@@ -1,0 +1,15 @@
+{% if site.data.documents %}
+<section class="section documents-section">
+
+  <h2 class="section-title"><i class="fa fa-user"></i>Documents</h2>
+
+  {% for documents in site.data.documents.documents %}
+    <div class="item">
+      <div class="publication-title">{{ documents.title }}</div>
+      <div class="publication-authors">{{ documents.authors }}</div><br>
+      <div class="publication-conference">{{ documents.conference }}</div>
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
