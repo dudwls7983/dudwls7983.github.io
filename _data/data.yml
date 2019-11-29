@@ -74,9 +74,9 @@ projects:
         link: "#"
         tagline: "-"
 
-      - title: .
-        link: "#"
-        tagline: "-"
+      - title: Gomoku
+        link: "https://github.com/dudwls7983/Gomoku"
+        tagline: "Unity Project in my 2nd semester of junior. Used Machine Learning AI at '5 in a row' game"
 
       - title: .
         link: "#"
